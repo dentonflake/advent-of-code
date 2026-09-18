@@ -1,0 +1,10 @@
+
+node_modules/
+dist/
+
+.DS_Store
+.env
+.env.*
+
+# Keep personal Advent of Code inputs out of Git
+**/input.txt
